@@ -30,3 +30,5 @@ $ docker run -p 8983:8983 grid-solr
  
 
 Point your browser to [localhost:8983](http://localhost:8983/solr/).
+
+API endpoint <http://localhost:8983/solr/grid/select>
